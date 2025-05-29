@@ -1,0 +1,1 @@
+The Knuth-Morris-Pratt algorithm is a string searching algorithm that searches for occurrences of a word within a main text string. It uses the observation that when a mismatch occurs, the word itself embodies sufficient information to determine where the next match could begin, thus bypassing re-examination of previously matched characters.
