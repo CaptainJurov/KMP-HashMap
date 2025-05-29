@@ -1,0 +1,6 @@
+algorithm
+string
+KMP
+search
+mismatch
+pattern
